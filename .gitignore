@@ -1,0 +1,8 @@
+/demo_sqliteevent/*
+!*.cls
+!*.frm
+!*.bas
+!*.txt
+!*.vbp
+!*.xls
+
