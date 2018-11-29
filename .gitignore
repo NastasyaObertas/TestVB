@@ -5,4 +5,4 @@
 !*.txt
 !*.vbp
 !*.xls
-
+.gitignore.swp
